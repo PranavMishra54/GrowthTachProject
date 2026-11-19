@@ -2,6 +2,11 @@
 
 A small MERN app I built for managing workspace users and their records. There's an Express/MongoDB API in `server/` and a Vite + React frontend in `client/`.
 
+## Documentation
+
+- [API endpoints](./API_DOCUMENTATION.md)
+- [Database structure and setup](./DATABASE.md)
+
 ## What you'll need
 
 - Node 18 or newer
